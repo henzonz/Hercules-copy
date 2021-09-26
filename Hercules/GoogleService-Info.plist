@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>545614044130-scehnn0qrjed2mclthjjjj6oggjluf3g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.545614044130-scehnn0qrjed2mclthjjjj6oggjluf3g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8Js-r3uTWS-RHApHIReaTt--_2spf584</string>
+	<key>GCM_SENDER_ID</key>
+	<string>545614044130</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.patriciasarno.Hercules</string>
+	<key>PROJECT_ID</key>
+	<string>hercules-72430</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hercules-72430.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:545614044130:ios:7e18f4a719170ee91737bb</string>
+</dict>
+</plist>
